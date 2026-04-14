@@ -23,3 +23,4 @@ Sistema desktop para gerenciamento de biblioteca, permitindo cadastro de livros,
 - Listagem de livros
 - Listagem de usuários
 - Integração com banco de dados
+Projeto desenvolvido como atividade do curso.
